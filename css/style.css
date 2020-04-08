@@ -299,7 +299,11 @@ header {
   }
   .resultado{
       padding-top: 20px;
+      background: #fff;
   }
+  .resultado-form {
+    border-bottom: 1px solid #ccc;
+}
   .resultado li{
       list-style: none;
       padding:10px 0px 10px 0px; 
